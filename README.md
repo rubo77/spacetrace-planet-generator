@@ -27,3 +27,6 @@ To start again with the first planet reset the counter with
 
     echo '0' > ./configs/planet_progress_count
 
+![](planets/planet_s1_595.jpg)
+![](planets/planet_s1_925.jpg)
+![](planets/planet_s1_584.jpg)
